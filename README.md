@@ -7,6 +7,8 @@ Signal processing methods simulated by Jupyter Notebook
         Fourier Transform
         zdomain
     Sampling
+        sampling
+        oversampling
     Filters
         RLC_filters
         raisedcosine
@@ -18,4 +20,4 @@ Signal processing methods simulated by Jupyter Notebook
     Signal
         delay
         pll
-
+        zero padding, zero stuffing
