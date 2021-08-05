@@ -1,6 +1,8 @@
 # signal-processing-py
 Signal processing methods simulated by Jupyter Notebook
 
+[sampling](./sampling.ipynb)
+
 ## Contents 
 
     Signals in Transform Domain
