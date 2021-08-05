@@ -13,7 +13,7 @@ Signals in Transform Domain
 Sampling
 
 - [Sampling](./sampling.ipynb)
-- [Oversampling](./zeropadding,stuffing,oversampling)
+- [Oversampling](./zeropadding,stuffing,oversampling.ipynb)
     
 Filters
 - [RLC_filters](RLC_filters.ipynb)
@@ -28,7 +28,7 @@ Modulation
 Signal
 - [Delay](./delay.ipynb)
 - [Pll](./pll.ipynb)
-- [Zero padding, Zero stuffing](./zeropadding,stuffing,oversampling)
+- [Zero padding, Zero stuffing](./zeropadding,stuffing,oversampling.ipynb)
 
 
 Mathmatics
