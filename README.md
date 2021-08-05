@@ -6,7 +6,7 @@ Signal processing methods simulated by Jupyter Notebook
     Signals in Transform Domain
         Fourier Transform
         zdomain
-    Sampling
+    [Sampling][sampling.ipynb]
     Filters
         RLC_filters
         raisedcosine
