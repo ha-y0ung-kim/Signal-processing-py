@@ -7,15 +7,15 @@ Signal processing methods simulated by Jupyter Notebook
         Fourier Transform
         zdomain
     Sampling
-        [sampling](Signal-processing-py/tree/master/sampling.ipynb)
+        sampling
         oversampling
     Filters
         RLC_filters
         raisedcosine
     Modulation
         Analog
-            [Amplitude Modulation](Modulation/AmplitudeModulation.ipynb)
-            [Frequency Modulation](Modulation/FrequencyModulation.ipynb)
+            Amplitude Modulation
+            Frequency Modulation
         Digital
     Signal
         delay
