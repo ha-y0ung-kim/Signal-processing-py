@@ -7,7 +7,7 @@ Signal processing methods simulated by Jupyter Notebook
         Fourier Transform
         zdomain
     Sampling
-        [sampling][sampling.ipynb]
+        [sampling](sampling.ipynb)
         oversampling
     Filters
         RLC_filters
